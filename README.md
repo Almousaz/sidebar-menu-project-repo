@@ -7,6 +7,6 @@ In this project, our goal is to create a sidebar menu in this project. At the to
 
 ### demo
 ---
-click [here]() to see demo
+click [here](https://almousaz.github.io/sidebar-menu-project-repo/) to see demo
 
 
